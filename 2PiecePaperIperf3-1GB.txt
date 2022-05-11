@@ -1,0 +1,41 @@
+-----------------------------------------------------------
+Server listening on 6969 (test #1)
+-----------------------------------------------------------
+Accepted connection from 192.168.88.4, port 1107
+[  6] local 192.168.88.2 port 6969 connected to 192.168.88.4 port 1108
+[  9] local 192.168.88.2 port 6969 connected to 192.168.88.4 port 1109
+[ ID][Role] Interval           Transfer     Bitrate
+[  6][RX-S]   0.00-1.00   sec   110 MBytes   924 Mbits/sec                  
+[  9][TX-S]   0.00-1.00   sec  34.8 MBytes   292 Mbits/sec                  
+[  6][RX-S]   1.00-2.00   sec   111 MBytes   930 Mbits/sec                  
+[  9][TX-S]   1.00-2.00   sec  36.6 MBytes   307 Mbits/sec                  
+[  6][RX-S]   2.00-3.00   sec  53.0 MBytes   444 Mbits/sec                  
+[  9][TX-S]   2.00-3.00   sec  95.8 MBytes   802 Mbits/sec                  
+[  6][RX-S]   3.00-4.00   sec  51.3 MBytes   431 Mbits/sec                  
+[  9][TX-S]   3.00-4.00   sec   104 MBytes   870 Mbits/sec                  
+[  6][RX-S]   4.00-5.00   sec  70.4 MBytes   591 Mbits/sec                  
+[  9][TX-S]   4.00-5.00   sec  87.2 MBytes   731 Mbits/sec                  
+[  6][RX-S]   5.00-6.00   sec  54.9 MBytes   461 Mbits/sec                  
+[  9][TX-S]   5.00-6.00   sec  95.0 MBytes   797 Mbits/sec                  
+[  6][RX-S]   6.00-7.00   sec  71.5 MBytes   600 Mbits/sec                  
+[  9][TX-S]   6.00-7.00   sec  96.2 MBytes   807 Mbits/sec                  
+[  6][RX-S]   7.00-8.00   sec  87.9 MBytes   738 Mbits/sec                  
+[  9][TX-S]   7.00-8.00   sec  75.8 MBytes   636 Mbits/sec                  
+[  6][RX-S]   8.00-9.00   sec  76.8 MBytes   644 Mbits/sec                  
+[  9][TX-S]   8.00-9.00   sec  82.2 MBytes   690 Mbits/sec                  
+[  6][RX-S]   9.00-10.00  sec  54.5 MBytes   457 Mbits/sec                  
+[  9][TX-S]   9.00-10.00  sec  95.8 MBytes   803 Mbits/sec                  
+[  6][RX-S]  10.00-11.00  sec  47.2 MBytes   396 Mbits/sec                  
+[  9][TX-S]  10.00-11.00  sec   100 MBytes   841 Mbits/sec                  
+[  6][RX-S]  11.00-12.00  sec  50.9 MBytes   427 Mbits/sec                  
+[  9][TX-S]  11.00-12.00  sec   104 MBytes   871 Mbits/sec                  
+[  6][RX-S]  12.00-12.18  sec  9.52 MBytes   447 Mbits/sec                  
+[  9][TX-S]  12.00-12.18  sec  17.0 MBytes   798 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate
+[  6][RX-S]   0.00-12.18  sec   849 MBytes   585 Mbits/sec                  receiver
+[  9][TX-S]   0.00-12.18  sec  1.00 GBytes   705 Mbits/sec                  sender
+-----------------------------------------------------------
+Server listening on 6969 (test #2)
+-----------------------------------------------------------
+iperf3: interrupt - the server has terminated

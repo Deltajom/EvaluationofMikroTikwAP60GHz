@@ -1,0 +1,31 @@
+-----------------------------------------------------------
+Server listening on 6969 (test #1)
+-----------------------------------------------------------
+Accepted connection from 192.168.88.4, port 1208
+[  6] local 192.168.88.2 port 6969 connected to 192.168.88.4 port 1209
+[  9] local 192.168.88.2 port 6969 connected to 192.168.88.4 port 1210
+[ ID][Role] Interval           Transfer     Bitrate
+[  6][RX-S]   0.00-1.00   sec  57.3 MBytes   481 Mbits/sec                  
+[  9][TX-S]   0.00-1.00   sec  66.0 MBytes   553 Mbits/sec                  
+[  6][RX-S]   1.00-2.00   sec  76.3 MBytes   640 Mbits/sec                  
+[  9][TX-S]   1.00-2.00   sec  57.4 MBytes   482 Mbits/sec                  
+[  6][RX-S]   2.00-3.00   sec  68.8 MBytes   577 Mbits/sec                  
+[  9][TX-S]   2.00-3.00   sec  68.0 MBytes   571 Mbits/sec                  
+[  6][RX-S]   3.00-4.00   sec  55.0 MBytes   461 Mbits/sec                  
+[  9][TX-S]   3.00-4.00   sec  71.0 MBytes   595 Mbits/sec                  
+[  6][RX-S]   4.00-5.00   sec  72.4 MBytes   608 Mbits/sec                  
+[  9][TX-S]   4.00-5.00   sec  64.4 MBytes   540 Mbits/sec                  
+[  6][RX-S]   5.00-6.00   sec  99.2 MBytes   832 Mbits/sec                  
+[  9][TX-S]   5.00-6.00   sec  46.2 MBytes   387 Mbits/sec                  
+[  6][RX-S]   6.00-7.00   sec  95.7 MBytes   803 Mbits/sec                  
+[  9][TX-S]   6.00-7.00   sec  52.8 MBytes   443 Mbits/sec                  
+[  6][RX-S]   7.00-7.84   sec  75.0 MBytes   751 Mbits/sec                  
+[  9][TX-S]   7.00-7.84   sec  48.2 MBytes   483 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate
+[  6][RX-S]   0.00-7.84   sec   600 MBytes   642 Mbits/sec                  receiver
+[  9][TX-S]   0.00-7.84   sec   474 MBytes   507 Mbits/sec                  sender
+-----------------------------------------------------------
+Server listening on 6969 (test #2)
+-----------------------------------------------------------
+iperf3: interrupt - the server has terminated
